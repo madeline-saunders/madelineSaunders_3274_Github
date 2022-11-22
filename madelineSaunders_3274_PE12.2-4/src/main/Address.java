@@ -1,4 +1,5 @@
 package main;
+
 import java.util.ArrayList;
 //Author: madelineSaunders_3274_PE12.4
 public class Invoice
@@ -58,3 +59,7 @@ public class Invoice
 	   return billingAddress;
    }
 }
+
+
+
+
