@@ -1,9 +1,9 @@
 package main;
 
 import java.util.ArrayList;
-//Author: madelineSaunders_3274_PE12.2-3
-//Date: November 1st
-// Purpose: demo push to github
+//Author: madelineSaunders_3274_PE12.4
+
+
 public class Invoice {
   private Address billingAddress;
   private ArrayList<AbstractItem> items;

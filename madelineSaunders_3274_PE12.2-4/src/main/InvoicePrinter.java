@@ -1,7 +1,7 @@
 package main;
 
-//Author: madelineSaunders_3274_PE12.2-3
-//Date: November 1st
+//Author: madelineSaunders_3274_PE12.4
+
 /**
 This program demonstrates the invoice classes by printing
 a sample invoice.
